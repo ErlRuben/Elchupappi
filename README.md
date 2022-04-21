@@ -9,3 +9,10 @@ My interest is listed below:
 ✔ - Gameing🎮
 ✔ - Anime📺 
 ✔ - Manga📖
+
+### ✅ Skills:
+✔ - C#
+✔ - Python
+✔ - Javascript
+✔ - HTML/CSS
+✔ - UI/UX Design
