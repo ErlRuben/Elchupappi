@@ -4,11 +4,11 @@ I am Earl Robin Batenga an BS-Entertainment and Multimedia Computing Student at 
 
 ## Interest:
 
-✔ - Making a Game or Application📝
-✔ - Designing🎨
-✔ - Gameing🎮
-✔ - Anime📺 
-✔ - Manga📖
+✔ - Making a Game or Application
+✔ - Designing
+✔ - Gameing
+✔ - Anime
+✔ - Manga
 
 ## Skills:
 ✔ - C#
@@ -16,3 +16,4 @@ I am Earl Robin Batenga an BS-Entertainment and Multimedia Computing Student at 
 ✔ - Javascript
 ✔ - HTML/CSS
 ✔ - UI/UX Design
+✔ - Photo and Video Editing
