@@ -1,4 +1,4 @@
-### Hi Lads 👋
+# Hi Lads 👋
 
 I am Earl Robin Batenga an BS-Entertainment and Multimedia Computung Student at Malayan Colleges Mindanao.
 
