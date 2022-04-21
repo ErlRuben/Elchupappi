@@ -2,7 +2,7 @@
 
 I am Earl Robin Batenga an BS-Entertainment and Multimedia Computung Student at Malayan Colleges Mindanao.
 
-### ✅ Interest:
+# ✅ Interest:
 My interest is listed below:
 ✔ - Making a Game or Application📝
 ✔ - Designing🎨
@@ -10,7 +10,7 @@ My interest is listed below:
 ✔ - Anime📺 
 ✔ - Manga📖
 
-### ✅ Skills:
+# ✅ Skills:
 ✔ - C#
 ✔ - Python
 ✔ - Javascript
