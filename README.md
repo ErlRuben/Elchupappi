@@ -6,7 +6,7 @@ I am Earl Robin Batenga an BS-Entertainment and Multimedia Computing Student at 
 
 ✔ - Making a Game or Application
 ✔ - Designing
-✔ - Gameing
+✔ - Gaming
 ✔ - Anime
 ✔ - Manga
 
