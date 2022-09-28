@@ -1,10 +1,10 @@
 ### Hi Lads 👋
 
-I am Earl Robin Batenga an BS-Entertainment and Multimedia Computing Student at Malayan Colleges Mindanao.
+I am Earl Robin Batenga Junior Game Developer/Designer taken BS-Entertainment and Multimedia Computing Student at Malayan Colleges Mindanao.
 
 ## Interest:
 
-✔ - Making a Game or Application
+✔ - Making a Game
 ✔ - Designing
 ✔ - Gaming
 ✔ - Anime
